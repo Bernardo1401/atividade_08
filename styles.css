@@ -66,3 +66,68 @@ header {
     align-items: center;
     margin: 2rem;
 }
+
+.main-content {
+    background-color: #c4c4c4;
+    width: 50%;
+    height: 54.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box-01{
+    background-color: #f2efe5;
+    width: 75%;
+    height: 70%;
+    border-radius: 2rem;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    flex-direction: column;
+    align-items: center;
+}
+
+.gray-content {
+    background-color: #c4c4c4;
+    width: 90%;
+    height: 22%;
+    border-radius: 2rem;
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+    
+}
+
+.line {
+    background-color: #000000;
+    height: 85%;
+    width: 0.015rem;
+    margin: 0.5rem;
+}
+
+.gray-content img {
+    width: 25%;
+    height: 10rem;
+    margin-left: 1.5rem;
+}
+
+.text-gray {
+    flex-direction: column;
+    display: flex;
+    gap: 1rem;
+}
+.text-gray-02 {
+    flex-direction: column;
+    display: flex;
+    gap: 1rem;
+    display: flex;
+    margin-top: 2.5rem;
+}
+
+.item-input {
+    width: 2rem;
+}
+
+
+
